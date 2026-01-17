@@ -1,16 +1,36 @@
-## Hi there 👋
+ Hi! I'm Devajith
 
-<!--
-**devajithvr25-creator/devajithvr25-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a background in AI & Data Science.  
+Focused on building clean, practical solutions and improving problem-solving skills through real-world projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+- Python
+- Java
+- R Programming
+- C Programming
+- HTML
+
+
+Web Development
+- Builds websites independently from scratch
+- Uses AI-assisted workflows when appropriate to improve productivity and efficiency
+- Focus on clean structure, usability, and maintainable code
+
+
+Interests 
+- Software Development
+- Data Science Foundations
+- Problem Solving & Logical Thinking
+- Continuous Learning
+
+Career Objective
+- Open to Internships and Entry-Level Software Developer roles, where I can contribute, learn, and grow in a professional environment.
+
+
+Contact
+- Email: devajithvr25@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/devajith-v-r-43826b321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+⭐ Always open to learning, building, and collaborating.

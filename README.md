@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Devajith</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%28Student%29;BCA+AI+%26+Data+Science+Student;Learning+by+Building+Real+Projects;Focused+on+Clean+and+Practical+Code&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+Student;BCA+AI+%26+Data+Science+Student;Learning+by+Building+Real+Projects;Focused+on+Clean+and+Practical+Code&center=true&width=550&height=50">
 </p>
 
 Software Developer **Student** with a background in **AI & Data Science**.  
@@ -16,6 +16,18 @@ I enjoy building clean, real-world solutions and improving my problem-solving ab
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devajith-vr&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devajith-vr&theme=tokyonight)
+
+##  Projects
+
+### Netflix Content Analysis (Python)
+- Performed data cleaning and exploratory data analysis on a Netflix dataset
+- Analyzed content trends, genres, and country-wise distribution
+- Created visualizations to support data-driven insights
+
+### Event Data Analysis (Python)
+- Analyzed event-related dataset to identify patterns and trends
+- Used data grouping, aggregation, and visualization techniques
+- Strengthened analytical thinking and data handling skills
 
 ##  Technical Skills
 

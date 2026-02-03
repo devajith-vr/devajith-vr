@@ -11,9 +11,10 @@ I enjoy building clean, real-world solutions and improving my problem-solving ab
 
 ##  GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devajith-vr&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devajith-vr&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devajith-vr&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devajith-vr&theme=github_dark)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devajith-vr&theme=tokyonight)
 

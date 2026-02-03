@@ -36,7 +36,7 @@ Open to **Internships** and **Entry-Level Software Developer roles**, where I ca
 
  Contact
 - Email: devajithvr25@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/devajith-v-r-43826b321
+- LinkedIn: www.linkedin.com/in/devajith-v-r-43826b321
 
 ---
 

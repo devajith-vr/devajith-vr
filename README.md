@@ -47,5 +47,6 @@ Open to **Internships** and **Entry-Level Software Developer** roles, where I ca
 - 🔗 LinkedIn: https://www.linkedin.com/in/devajith-vr  
 
 Always open to learning, building, and collaborating.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+
 

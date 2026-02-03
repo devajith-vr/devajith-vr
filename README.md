@@ -17,6 +17,7 @@ I enjoy building clean, real-world solutions and improving my problem-solving ab
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devajith-vr&theme=tokyonight)
 
+
 ##  Projects
 
 ### Netflix Content Analysis (Python)
@@ -53,12 +54,13 @@ I enjoy building clean, real-world solutions and improving my problem-solving ab
 
 Open to **Internships** and **Entry-Level Software Developer** roles, where I can contribute, learn, and grow in a professional environment.
 
-##  Contact
+## 📫 Contact
 
-- ✉️ Email: devajithvr25@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/devajith-vr  
+- 📧 Email: devajithvr25@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/devajith-vr  
 
 Always open to learning, building, and collaborating.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
 
 

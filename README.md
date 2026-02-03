@@ -11,13 +11,15 @@ I enjoy building clean, real-world solutions and continuously improving my probl
 
 ---
 
-##  GitHub Overview
+## GitHub Overview
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devajith-vr&theme=github_dark)
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devajith-vr&theme=github_dark) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devajith-vr&theme=github_dark) |
 
-![Top Languages](https://github-profile-summary-cards.vercel.app.app/api/cards/most-commit-language?username=devajith-vr&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devajith-vr&theme=github-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devajith-vr&theme=github-dark" />
+</p>
 
 ---
 

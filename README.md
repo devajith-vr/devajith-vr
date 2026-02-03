@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Devajith</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+Student;BCA+AI+%26+Data+Science+Student;Learning+by+Building+Real+Projects;Focused+on+Clean+and+Practical+Code&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;BCA+AI+%26+Data+Science+Student;Learning+by+Building+Real-World+Projects;Focused+on+Clean+and+Practical+Code&center=true&width=560&height=45">
 </p>
 
-Software Developer **Student** with a background in **AI & Data Science**.  
-Currently pursuing **BCA in AI & Data Science**, while actively developing software projects to strengthen practical skills.
+Aspiring Software Developer with a foundation in **AI & Data Science**.  
+BCA AI & Data Science student focused on learning through hands-on software and data analysis projects.
 
-I enjoy building clean, real-world solutions and improving my problem-solving ability through consistent hands-on practice and learning.
+I enjoy building clean, real-world solutions and continuously improving my problem-solving skills through consistent practice.
+
+---
 
 ##  GitHub Overview
 
@@ -15,8 +17,9 @@ I enjoy building clean, real-world solutions and improving my problem-solving ab
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devajith-vr&theme=github_dark)
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=devajith-vr&theme=tokyonight)
+
+---
 
 ##  Projects
 
@@ -26,9 +29,11 @@ I enjoy building clean, real-world solutions and improving my problem-solving ab
 - Created visualizations to support data-driven insights
 
 ### Event Data Analysis (Python)
-- Analyzed event-related dataset to identify patterns and trends
-- Used data grouping, aggregation, and visualization techniques
+- Analyzed event-based data to identify patterns and trends
+- Applied aggregation, grouping, and visualization techniques
 - Strengthened analytical thinking and data handling skills
+
+---
 
 ##  Technical Skills
 
@@ -40,27 +45,31 @@ I enjoy building clean, real-world solutions and improving my problem-solving ab
 - Web Development  
 
 - Builds websites independently from scratch  
-- Uses modern development tools and best practices to improve productivity  
-- Focuses on clean structure, usability, and maintainable code
+- Uses modern development tools and best practices  
+- Focuses on clean structure, usability, and maintainable code  
+
+---
 
 ##  Interests
 
 - Software Development  
 - Data Science Foundations  
 - Problem Solving & Logical Thinking  
-- Continuous Learning
+- Continuous Learning  
+
+---
 
 ##  Career Objective
 
-Open to **Internships** and **Entry-Level Software Developer** roles, where I can contribute, learn, and grow in a professional environment.
+Open to **Internships** and **Entry-Level Software Developer** roles where I can contribute, learn, and grow in a professional environment.
 
-## 📫 Contact
+---
 
-- 📧 Email: devajithvr25@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/devajith-vr  
+##  Contact
+
+-  Email: devajithvr25@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/devajith-vr  
 
 Always open to learning, building, and collaborating.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=110&section=footer"/>

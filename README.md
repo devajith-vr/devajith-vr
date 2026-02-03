@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%28Student%29;BCA+AI+%26+Data+Science+Student;Learning+by+Building+Real+Projects;Focused+on+Clean+and+Practical+Code&center=true&width=550&height=50">
 </p>
 
-Software Developer **(Student)** with a background in **AI & Data Science**.  
+Software Developer **Student** with a background in **AI & Data Science**.  
 Currently pursuing **BCA in AI & Data Science**, while actively developing software projects to strengthen practical skills.
 
 I enjoy building clean, real-world solutions and improving my problem-solving ability through consistent hands-on practice and learning.
@@ -43,9 +43,9 @@ Open to **Internships** and **Entry-Level Software Developer** roles, where I ca
 
 ##  Contact
 
-- 📧 Email: devajithvr25@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/devajith-vr
-  
+- ✉️ Email: devajithvr25@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/devajith-vr  
+
 Always open to learning, building, and collaborating.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=110&section=footer"/>
 

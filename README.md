@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Devajith</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;BCA+AI+%26+Data+Science+Student;Learning+by+Building+Real-World+Projects&center=true&width=560&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;BCA+AI+%26+DATA+SCIENCE+STUDENT;Learning+by+Building+Real-World+Projects&center=true&width=560&height=45">
 </p>
 
 Aspiring Software Developer with a foundation in **AI & Data Science**.  

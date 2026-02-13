@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Analyst;BCA+AI+%26+DATA+SCIENCE+STUDENT;Learning+by+Building+Real-World+Projects&center=true&width=560&height=45">
 </p>
 
-Aspiring Software Developer with a foundation in **AI & Data Science**.  
+Aspiring Data Analyst with a foundation in **AI & Data Science**.  
 BCA AI & Data Science student focused on learning through hands-on software and data analysis projects.
 
 I enjoy building clean, real-world solutions and continuously improving my problem-solving skills through consistent practice.
@@ -52,7 +52,9 @@ I enjoy building clean, real-world solutions and continuously improving my probl
 
 ##  Interests
 
-- Software Development  
+- Software Development
+- Artificial Intelligence
+- Data Analytics
 - Data Science Foundations  
 - Problem Solving & Logical Thinking  
 - Continuous Learning  

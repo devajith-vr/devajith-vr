@@ -24,14 +24,14 @@ I enjoy building clean, real-world solutions and continuously improving my probl
 ##  Projects
 
 ### Netflix Content Analysis (Python)
-🔗 [View Project] (https://github.com/devajith-vr/Netflix_Data_Exploration)
+🔗 [View Project](https://github.com/devajith-vr/Netflix_Data_Exploration)
 
 - Performed data cleaning and exploratory data analysis on a Netflix dataset
 - Analyzed content trends, genres, and country-wise distribution
 - Created visualizations to support data-driven insights
 
 ### Event Data Analysis (Python)
-🔗 [View Project] (https://github.com/devajith-vr/Event-Data-Analysis)
+🔗 [View Project](https://github.com/devajith-vr/Event-Data-Analysis)
 
 - Analyzed event-based data to identify patterns and trends
 - Applied aggregation, grouping, and visualization techniques

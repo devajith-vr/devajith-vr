@@ -24,17 +24,27 @@ I enjoy building clean, real-world solutions and continuously improving my probl
 ##  Projects
 
 ### Netflix Content Analysis (Python)
-🔗 [View Project] (https://github.com/devajith-vr/Event-Data-Analysis)
+🔗 [View Project] (https://github.com/devajith-vr/Netflix_Data_Exploration)
 
 - Performed data cleaning and exploratory data analysis on a Netflix dataset
 - Analyzed content trends, genres, and country-wise distribution
 - Created visualizations to support data-driven insights
 
 ### Event Data Analysis (Python)
+🔗 [View Project] (https://github.com/devajith-vr/Event-Data-Analysis)
+
 - Analyzed event-based data to identify patterns and trends
 - Applied aggregation, grouping, and visualization techniques
 - Strengthened analytical thinking and data handling skills
 
+### WikiDash (WTWP25 Project)
+🔗 [View Project](https://github.com/Wikimedians-of-Kerala-UG-Technical/WTWP25-Wiki-info)
+
+- Designed and developed a modern Wikipedia dashboard interface  
+- Implemented topic search with summary, metadata, and image display  
+- Enhanced UI styling and added trending search functionality  
+- Focused on responsive and user-friendly design
+  
 ---
 
 ##  Technical Skills

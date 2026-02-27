@@ -54,7 +54,7 @@ I enjoy building clean, real-world solutions and continuously improving my probl
 - R Programming  
 - C Programming  
 - HTML  
-- css
+- CSS
 
 ---
 

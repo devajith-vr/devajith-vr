@@ -54,11 +54,7 @@ I enjoy building clean, real-world solutions and continuously improving my probl
 - R Programming  
 - C Programming  
 - HTML  
-- Web Development  
-
-- Builds websites independently from scratch  
-- Uses modern development tools and best practices  
-- Focuses on clean structure, usability, and maintainable code  
+- css
 
 ---
 

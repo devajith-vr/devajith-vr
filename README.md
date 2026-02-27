@@ -55,6 +55,8 @@ I enjoy building clean, real-world solutions and continuously improving my probl
 - C Programming  
 - HTML  
 - CSS
+- MongoDB  
+- MySQL  
 
 ---
 
